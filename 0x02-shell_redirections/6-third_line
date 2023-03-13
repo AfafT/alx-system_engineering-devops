@@ -1,2 +1,2 @@
 #!/bin/bash
-head - n 3 iacta | teal -n 1
+head  3 iacta | teal  1
